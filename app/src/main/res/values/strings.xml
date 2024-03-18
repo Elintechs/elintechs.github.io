@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QRes</string>
+    <string name="decode">Decode</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="qr_code_data">QR code data</string>
+    <string name="decrypted_data">Decrypted Data</string>
+    <string name="copy">COPY</string>
+    <string name="text_copy">copied to clipboard</string>
+    <string name="select_scheme">Protection type</string>
+
+    <string name="text">Text</string>
+    <string name="url">URL</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone number</string>
+    <string name="sms">SMS</string>
+    <string name="wifi">Wifi</string>
+    <string name="contact_information">Contact information</string>
+</resources>

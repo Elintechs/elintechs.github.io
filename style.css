@@ -1,0 +1,89 @@
+body {
+    color: #212121;
+    background-color: #EEEEEE;
+}
+h1{
+    text-align: center;
+}
+#inputForm {
+    margin: auto;
+    width: 300px;
+}
+#buttonDiv {
+    text-align: right;
+    margin: 10px
+}
+.inputData {
+    border: none;
+    background-color: #616161;
+    color: #f5f5f5;
+    padding: 10px;
+}
+.inputData:focus, .inputData:active {
+    outline: none;
+}
+.genButton {
+    border: none;
+    display: block;
+    width: 100%;
+    border-radius: 5px;;
+    background-color: #aed581;
+    color: #212121;
+    padding: 10px;
+}
+.genButton:focus, .genButton:active {
+    outline: none;
+}
+.genButton:hover  {
+    background-color: #9ccc65;
+
+}
+#code {
+    margin: auto;
+}
+.card {
+    background-color: #FFFFFF;
+    padding: 10px 20px 10px 20px;
+    box-shadow: var(--box-shadow);
+    border-radius: 5px;
+    margin: 10px 0px 10px 0px;
+}
+ol {
+    list-style-type: none;
+    padding: 0px;
+}
+.inputLabel {
+    text-align: left;
+    color: #212121;
+    margin: 5px;
+}
+.inputData {
+    display: block;
+    position: relative;
+    height: auto;
+    background-color: #e0e0e0;
+    color: #212121;
+    font-weight: 500;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 1.2em;
+    border: none;
+    box-sizing: border-box;
+    resize: vertical;
+}
+.inputData:focus, .inputData:active {
+    outline: none;
+}
+.inputData::-webkit-scrollbar {
+    cursor: pointer;
+    width: 5px;
+}
+
+.inputData::-webkit-scrollbar-track {
+    background-color: #CDCDCD;
+}
+
+.inputData::-webkit-scrollbar-thumb {
+background-color: #626262;
+outline: 1px solid slategrey;
+}
